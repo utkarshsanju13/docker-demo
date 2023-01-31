@@ -1,4 +1,4 @@
-FROM java:11-jdk
+FROM adoptopenjdk/openjdk11:latest
 RUN mkdir/app
 WORKDIR /app
 COPY target/docker-demo-0.0.1-SNAPSHOT.jar /app
