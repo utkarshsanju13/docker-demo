@@ -1,5 +1,5 @@
 FROM adoptopenjdk/openjdk11:latest
-RUN mkdir/app
+RUN mkdir /app
 WORKDIR /app
 COPY target/docker-demo-0.0.1-SNAPSHOT.jar /app
 EXPOSE 8110
