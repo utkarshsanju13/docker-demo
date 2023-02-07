@@ -3,8 +3,9 @@
 2: Docker file:
 	https://github.com/utkarshsanju13/docker-demo/blob/main/Dockerfile
 3: Docker Image Created Successfully & Total Number of Docker image:
-	![alt text](https://github.com/utkarshsanju13/docker-demo/blob/main/img/DockerImagesCreated.png)	 
+	![alt text](https://github.com/utkarshsanju13/docker-demo/blob/main/img/DockerImagesCreated.png)
 From Docker Hub:
+
  
 4. Image path from Docker Hub Repo:
 docker pull utkarshgupta13/dockerdemo:v1
